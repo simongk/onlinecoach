@@ -1,0 +1,69 @@
+<html>
+
+<body>
+<div>
+	<form action="#" th:action="@{/survey/generate}"  th:object="${person}"
+		method="post">
+		<p>Imie:</p>
+		<p>
+			<input type="text" th:field="*{firstName}" />
+		</p>
+
+		<p>Nazwisko:</p>
+		<p>
+			<input type="text" th:field="*{lastName}" />
+		</p>
+
+		<p>Problem z przysiadem: (Good Morning, Buttwink, Nic)</p>
+		<p>
+			<input type="text" th:field="*{squatProblem}" />
+		</p>
+
+		<p>Progresja: (2,5/5)</p>
+		<p>
+			<input type="number" th:field="*{progressionType}"/>
+		</p>
+
+		<h1>Ciezary poczatkowe</h1>
+
+		<p>Przysiad 3x5:</p>
+		<p>
+			<input type="number" th:field="*{squatWeight}" />
+		</p>
+
+		<p>Wyciskanie 3x5:</p>
+		<p>
+			<input type="number" th:field="*{benchWeight}" />
+		</p>
+
+		<p>Martwy Ciag 1x5:</p>
+		<p>
+			<input type="number" th:field="*{deadliftWeight}" />
+		</p>
+
+		<p>Wioslo 3x5:</p>
+		<p>
+			<input type="number" th:field="*{rowWeight}"/>
+		</p>
+
+		<p>Zolnierskie wyciskanie 3x5:</p>
+		<p>
+			<input type="number" th:field="*{ohpWeight}"/>
+		</p>
+
+		<p>Email:</p>
+		<p>
+			<input type="email" th:field="*{emailAddress}" />
+		</p>
+
+		<p>
+			<input type="submit" value="Wyślij plan" />
+		</p>
+
+
+
+	</form>
+
+</div>
+</body>
+</html>
