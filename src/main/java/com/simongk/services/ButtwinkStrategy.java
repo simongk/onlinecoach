@@ -7,10 +7,10 @@ public class ButtwinkStrategy implements SquatPlanStrategy {
 	@Override
 	public String setPrefatigue() {
 		
-		prefatigue = "1.Reverse Calf Raises 3x12 3010"
-				+ "2.Calf Raise 3x12 3010" 
-				+ "3.Front foot elevated Split squat 3x12 3010"
-				+"4.Ankle stretch 20s";
+		prefatigue = "1.Reverse Calf Raises 3x12 3010" + " "
+				+ "2.Calf Raise 3x12 3010" + " "
+				+ "3.Front foot elevated Split squat 3x12 3010" + " "
+				+"4.Ankle stretch 20s" + " ";
 	
 		return prefatigue;
 	}

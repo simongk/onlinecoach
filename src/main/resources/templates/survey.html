@@ -6,54 +6,54 @@
 		method="post">
 		<p>Imie:</p>
 		<p>
-			<input type="text" th:field="*{firstName}" />
+			<input type="text" th:field="*{firstName}" required ="required" />
 		</p>
 
 		<p>Nazwisko:</p>
 		<p>
-			<input type="text" th:field="*{lastName}" />
+			<input type="text" th:field="*{lastName}" required ="required" />
 		</p>
 
 		<p>Problem z przysiadem: (Good Morning, Buttwink, Nic)</p>
 		<p>
-			<input type="text" th:field="*{squatProblem}" />
+			<input type="text" th:field="*{squatProblem}" required ="required" />
 		</p>
 
 		<p>Progresja: (2,5/5)</p>
 		<p>
-			<input type="number" th:field="*{progressionType}"/>
+			<input type="number" th:field="*{progressionType}" required ="required"/>
 		</p>
 
 		<h1>Ciezary poczatkowe</h1>
 
 		<p>Przysiad 3x5:</p>
 		<p>
-			<input type="number" th:field="*{squatWeight}" />
+			<input type="number" th:field="*{squatWeight}" required ="required"/>
 		</p>
 
 		<p>Wyciskanie 3x5:</p>
 		<p>
-			<input type="number" th:field="*{benchWeight}" />
+			<input type="number" th:field="*{benchWeight}" required ="required"/>
 		</p>
 
 		<p>Martwy Ciag 1x5:</p>
 		<p>
-			<input type="number" th:field="*{deadliftWeight}" />
+			<input type="number" th:field="*{deadliftWeight}" required ="required"/>
 		</p>
 
 		<p>Wioslo 3x5:</p>
 		<p>
-			<input type="number" th:field="*{rowWeight}"/>
+			<input type="number" th:field="*{rowWeight}" required ="required"/>
 		</p>
 
 		<p>Zolnierskie wyciskanie 3x5:</p>
 		<p>
-			<input type="number" th:field="*{ohpWeight}"/>
+			<input type="number" th:field="*{ohpWeight}" required ="required"/>
 		</p>
 
 		<p>Email:</p>
 		<p>
-			<input type="email" th:field="*{emailAddress}" />
+			<input type="email" th:field="*{emailAddress}" required ="required" />
 		</p>
 
 		<p>

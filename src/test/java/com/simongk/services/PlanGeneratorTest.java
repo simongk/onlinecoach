@@ -25,6 +25,8 @@ public class PlanGeneratorTest {
 		person.setBenchWeight(new BigDecimal(100));
 		person.setDeadliftWeight(new BigDecimal(100));
 		person.setSquatWeight(new BigDecimal(100));
+		person.setOhpWeight(new BigDecimal(100));
+		person.setRowWeight(new BigDecimal(100));
 		planGenerator = new PlanGenerator(person);
 		squatPlanStrategy = new GoodMorningStrategy();
 

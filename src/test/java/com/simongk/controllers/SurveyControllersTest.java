@@ -14,7 +14,7 @@ public class SurveyControllersTest {
 	private SurveyController controller;
 	private Person person;
 	private Model model;
-	
+
 	@Before
 	public void setUp() throws Exception {
 		controller = new SurveyController();
@@ -29,7 +29,4 @@ public class SurveyControllersTest {
 		assertNotNull(person);
 	}
 
-	
-	
-	
 }

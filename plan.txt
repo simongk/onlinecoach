@@ -1,13 +1,74 @@
 Michal
-Zazi
+Zarzeczny
 Good Morning
-1.Split Squat 3x12 30102. Glute Bridge 2x20 30103.FireHydrant 2x20 3010Week 1
+1.Split Squat 3x12 3010 2. Glute Bridge 2x20 3010 3.FireHydrant 2x20 3010 
+Week 1
 Monday
 Squat 3x5
-100
+130
+Bench Press 3x5
+80
+Deadlift 1x5
+140
+Wednesday
+Squat 3x5
+135
+Military Press 3x5
+50
+Row 3x5
+60
+Pull ups 3xmax
+Friday
+Squat 3x5
+140
+Bench Press 3x5
+85
+Deadlift 1x5
+145
+Week 2
+Monday
+Squat 3x5
+145
+Military Press 3x5
+55
+Row 3x5
+65
+Pull ups 3xmax
+Wednesday
+Squat 3x5
+150
+Bench Press 3x5
+90
+Deadlift 1x5
+150
+Friday
+Squat 3x5
+155
+Military Press 3x5
+60
+Row 3x5
+70
+Pull ups 3xmax
+Week 3
+Monday
+Squat 3x5
+160
+Bench Press 3x5
+95
+Deadlift 1x5
+155
+Wednesday
+Squat 3x5
+165
+Military Press 3x5
+65
+Row 3x5
+75
+Pull ups 3xmax
+Friday
+Squat 3x5
+170
 Bench Press 3x5
 100
 Deadlift 1x5
-100
-Wednesday
-Squat 3x5
+160
